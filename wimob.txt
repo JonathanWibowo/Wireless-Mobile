@@ -1,0 +1,15 @@
+Create It!
+
+Description:
+Create It! is an mobile application about combining some random stuff to make creative items which user can make from the list of materials he have. The app will provide the item(s) accordingly by the users desire and setting
+
+Functions:
+
+>Listing materials
+	Able to list down available materials the users have to find out what they can make. The result must keep on changing
+
+>filters
+	The user is able to filter out unwanted category or materials for the result list
+
+>category
+	Another way of searching items, where the user is able to search manually through all the list. we use category in order to categorize and make the list shorter without taking off the items the user will want to make. This includes difficulty, result type, and material types
