@@ -13,3 +13,6 @@ Functions:
 
 >category
 	Another way of searching items, where the user is able to search manually through all the list. we use category in order to categorize and make the list shorter without taking off the items the user will want to make. This includes difficulty, result type, and material types
+	
+>account
+	User can see list of product available in the app,  but when they want to see the detail, they must have an account first to see the detail of product. If the user still haven't login yet, they will be direct to the login page & if they don't have any account, they can click the register button in login page
